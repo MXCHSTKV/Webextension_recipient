@@ -1,0 +1,10 @@
+{
+    "name": {
+        "message": "Content recipient",
+        "description": "extension name"
+    },
+    "description": {
+        "message": "The extension opens instagram photos or videos in a new tab with the possibility of further download. Use Ctrl + mousedown to get a photo. Use Alt + mousedowm to get a video.",
+        "description": "extension descriptopion"    
+    } 
+}
